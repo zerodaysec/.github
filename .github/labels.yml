@@ -1,0 +1,67 @@
+# more info https://github.com/crazy-max/ghaction-github-labeler
+  - name: documentation
+    color: 93b0f9
+    description: Improvements or additions to documentation
+  - name: duplicate
+    color: cfd3d7
+    description: This issue or pull request already exists
+  - name: feature
+    color: 84b6eb
+    description: Request update for the Lab Policy
+  - name: feature
+    color: ffffff
+    description: Good for newcomers
+  - name: help wanted
+    color: 008672
+    description: Extra attention is needed
+  - name: invalid
+    color: '000000'
+    description: This doesn't seem right
+  - name: priority:high
+    color: eb6420
+    description: High priority issue or pull request
+  - name: priority:low
+    color: eeeeee
+    description: Low priority issue or pull request
+  - name: priority:medium
+    color: fbca04
+    description: Medium priority issue or pull request
+  - name: question
+    color: d876e3
+    description: Further information is requested
+  - name: release
+    color: e4e669
+    description: A release task or pull request
+  - name: status:abandoned
+    color: '000000'
+    description: Issue or pull request abandoned by author
+  - name: status:accepted
+    color: '009800'
+    description: Issue or pull request accepted by maintainer
+  - name: status:available
+    color: bfe5bf
+    description: Task available for assignment
+  - name: status:blocked
+    color: e11d21
+    description: Issue or pull request is blocked by something
+  - name: status:completed
+    color: 006b75
+    description: Task is complete
+  - name: status:in_progress
+    color: cccccc
+    description: Task is actively being worked on
+  - name: status:on_hold
+    color: e11d21
+    description: Task was recently worked on but is now on hold
+  - name: status:pending
+    color: fef2c0
+    description: Task is pending review or completion of something else
+  - name: status:review_needed
+    color: fbca04
+    description: Issue or pull request needs reviewed
+  - name: status:revision_needed
+    color: e11d21
+    description: Issue or pull request needs to be revised by author
+  - name: wontfix
+    color: '000000'
+    description: This will not be worked on
