@@ -1,0 +1,9 @@
+# CODEOWNERS
+
+## Default mrc0der
+
+* @mrc0der
+
+## Docs Dir
+
+/docs/ @zerodaysec/@maintainers
